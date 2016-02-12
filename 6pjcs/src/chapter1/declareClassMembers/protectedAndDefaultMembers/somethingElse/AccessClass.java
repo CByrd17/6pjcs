@@ -2,7 +2,7 @@ package chapter1.declareClassMembers.protectedAndDefaultMembers.somethingElse;
 
 import chapter1.declareClassMembers.protectedAndDefaultMembers.certification.OtherClass;
 
-class AccessClass {
+class AccessClass extends OtherClass{
 
 	public static void main(String[] args) {
 		OtherClass o = new OtherClass();
