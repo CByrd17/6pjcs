@@ -1,4 +1,4 @@
-import chapter1.classDeclarationsAndModifiers.food.Fruit;
+import chapter1.declareClasses.classDeclarationsAndModifiers.food.Fruit;
 
 class Apple extends Fruit{
 
